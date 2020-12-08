@@ -51,10 +51,11 @@ I love working with data scientists and statistician and Bio scientists who is s
     year: 2019 Fall  
 
 🌱🌱 I’m currently pursuing deeplearning applicaiton into metagenome
+
 💬💬 [Email to me if any question](xnzhang@genetics.ac.cn)
 
 
-If you find my work good, consider giving it a ⭐ (͡ ° ͜  ͡ °) ☆*:.¨☆´;.☆ or ℱᵒᒻᒻᵒ꒳ ◡̈⃝ It helps me stay on track and be motivated.
+If you find my work good, consider giving it a (͡ ° ͜  ͡ °) ☆*:.¨☆´;.☆ or ℱᵒᒻᒻᵒ꒳ ◡̈⃝ It helps me stay on track and be motivated.
 
 
 
