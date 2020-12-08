@@ -30,38 +30,30 @@ I'm a PhD Student of [University of Chinese Academy of Sciences](https://english
 I love working with data scientists and statistician and Bio scientists who is skilled in quantitatice genetics across the spectrum- from beginners to advanced hackers- and particularly enjoy using software tools to create educational materials that enlighten and engage learners. Topics I teach range from python programming to machine learning. My teaching materials have been used by [Student of Chung-Ang University, Seoul 06974, Korea](https://neweng.cau.ac.kr/index.do), [UCAS](https://english.ucas.ac.cn/index.php/admission/graduate), [Innovation Class@University of Beijing Forestry](http://jwc.bjfu.edu.cn/lxsybzl/index.html), and now [IGDB Bailab Root Microbiome](http://bailab.genetics.ac.cn/index.html)
 
 
-  courses:
-  - course: Multivariate Statistical Analysis
+📚📚  courses:
+  - 🤔 course: Multivariate Statistical Analysis
     institution: University of Chinese Academy of Sciences
     year: 2018 Fall
-  - course: Data Mining I
+  - 🤔 course: Data Mining I
     institution: University of Chinese Academy of Sciences
     year: 2019 Spring
-  - course:  Elements in Statistics 
+  - 🤔 course:  Elements in Statistics 
     institution: IGDB
     year: 2019 Spring
-  - course: Time Series
+  - 🤔 course: Time Series
     institution: IGDB
     year: 2019 Spring
-  - course: Artificial Intelligence & Deep Learning
+  - 🤔 course: Artificial Intelligence & Deep Learning
     institution: IGDB
     year: 2019 Fall
-  - course: Mathematical Statistics II
+  - 🎓 course: Mathematical Statistics II
     institution: IGDB
     year: 2019 Fall  
-  
-  
-email:  xnzhang@genetics.ac.cn
 
-interests:
-- Statistical Learning(Machine Learning & Deep learning)
-- Data Analysis & Visualization
-- Programming
-- Education
-- Badminton 
 
 <p><em>PhD Student @ Data Miner & Coder at <a href="https://english.ucas.ac.cn/index.php/admission/graduate">University of Chinese Academy of Sciences</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
   <a href="https://tank.netlify.app/">Welcome to Comment on My Daily Blog</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  email:  xnzhang@genetics.ac.cn
 </em></p>
 
   
