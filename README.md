@@ -25,10 +25,15 @@ A **PhD Student of University of Chinese Academy of Sciences** 🚀 from Beijing
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 ---
-authors:
-- alison
-bio: I'm a PhD Student majoring in Bioinformatics and Biostatistics who loves computer programming such as C(++), Java, Python and R.
-education:
+I'm a PhD Student of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) majoring in Bioinformatics and Biostatistics who loves computer programming such as C(++), Java, Python and R, where I work to help labmate members learn and use programming to do better work in less time, with less friction, and (perhaps) more joy. 
+
+I love working with data scientists and statistician and Bio scientists who is skilled in quantitatice genetics across the spectrum- from beginners to advanced hackers- and particularly enjoy using software tools to create educational materials that enlighten and engage learners. Topics I teach range from python programming to machine learning. My teaching materials have been used by [Student of Chung-Ang University, Seoul 06974, Korea](https://neweng.cau.ac.kr/index.do), [UCAS](https://english.ucas.ac.cn/index.php/admission/graduate), [Innovation Class@University of Beijing Forestry](http://jwc.bjfu.edu.cn/lxsybzl/index.html), and now [IGDB Bailab Root Microbiome](http://bailab.genetics.ac.cn/index.html).
+
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
   courses:
   - course: Multivariate Statistical Analysis
     institution: University of Chinese Academy of Sciences
@@ -66,7 +71,4 @@ organizations:
 role: PhD Student @ Data Miner & Coder
   
 
-I'm a PhD Student of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) majoring in Bioinformatics and Biostatistics who loves computer programming such as C(++), Java, Python and R, where I work to help labmate members learn and use programming to do better work in less time, with less friction, and (perhaps) more joy. 
-
-I love working with data scientists and statistician and Bio scientists who is skilled in quantitatice genetics across the spectrum- from beginners to advanced hackers- and particularly enjoy using software tools to create educational materials that enlighten and engage learners. Topics I teach range from python programming to machine learning. My teaching materials have been used by [Student of Chung-Ang University, Seoul 06974, Korea](https://neweng.cau.ac.kr/index.do), [UCAS](https://english.ucas.ac.cn/index.php/admission/graduate), [Innovation Class@University of Beijing Forestry](http://jwc.bjfu.edu.cn/lxsybzl/index.html), and now [IGDB Bailab Root Microbiome](http://bailab.genetics.ac.cn/index.html).
 
