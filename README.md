@@ -27,13 +27,8 @@ A **PhD Student of University of Chinese Academy of Sciences** 🚀 from Beijing
 ---
 I'm a PhD Student of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) majoring in Bioinformatics and Biostatistics who loves computer programming such as C(++), Java, Python and R, where I work to help labmate members learn and use programming to do better work in less time, with less friction, and (perhaps) more joy. 
 
-I love working with data scientists and statistician and Bio scientists who is skilled in quantitatice genetics across the spectrum- from beginners to advanced hackers- and particularly enjoy using software tools to create educational materials that enlighten and engage learners. Topics I teach range from python programming to machine learning. My teaching materials have been used by [Student of Chung-Ang University, Seoul 06974, Korea](https://neweng.cau.ac.kr/index.do), [UCAS](https://english.ucas.ac.cn/index.php/admission/graduate), [Innovation Class@University of Beijing Forestry](http://jwc.bjfu.edu.cn/lxsybzl/index.html), and now [IGDB Bailab Root Microbiome](http://bailab.genetics.ac.cn/index.html).
+I love working with data scientists and statistician and Bio scientists who is skilled in quantitatice genetics across the spectrum- from beginners to advanced hackers- and particularly enjoy using software tools to create educational materials that enlighten and engage learners. Topics I teach range from python programming to machine learning. My teaching materials have been used by [Student of Chung-Ang University, Seoul 06974, Korea](https://neweng.cau.ac.kr/index.do), [UCAS](https://english.ucas.ac.cn/index.php/admission/graduate), [Innovation Class@University of Beijing Forestry](http://jwc.bjfu.edu.cn/lxsybzl/index.html), and now [IGDB Bailab Root Microbiome](http://bailab.genetics.ac.cn/index.html)
 
-
-
-<p><em>PhD Student at <a href="https://english.ucas.ac.cn/index.php/admission/graduate">University of Chinese Academy of Sciences</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-  <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
   courses:
   - course: Multivariate Statistical Analysis
@@ -65,11 +60,10 @@ interests:
 - Education
 - Badminton 
 
-name: Tank (Xiao-Ning Zhang)
-organizations:
-- name: Institute of Genetics and Developmental Biology
-  url: http://bailab.genetics.ac.cn/
-role: PhD Student @ Data Miner & Coder
+<p><em>PhD Student @ Data Miner & Coder at <a href="https://english.ucas.ac.cn/index.php/admission/graduate">University of Chinese Academy of Sciences</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+  <a href="https://tank.netlify.app/">Welcome to Comment on My Daily Blog</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
   
 
 
